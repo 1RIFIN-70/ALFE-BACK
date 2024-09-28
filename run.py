@@ -1,2 +1,2 @@
 import ax
-ax.ARIFIN()
+ax.app()
